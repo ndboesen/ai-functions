@@ -1,0 +1,9 @@
+{
+  "name": "ai-functions",
+  "version": "1.0.0",
+  "description": "Serverless functions for the Business Idea Generator",
+  "main": "netlify/functions/generate-ideas.js",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
